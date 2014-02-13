@@ -1,0 +1,20 @@
+{
+	"name": "sheillendra/yii2-jsrender",
+	"description": "Yii2 JsRender",
+	"keywords": ["jsrender", "template", "yii2","yii"],
+	"type": "yii2-extension",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "BorisMoore",
+			"email": ""
+		}
+	],
+	"require": {
+	},
+	"autoload": {
+		"psr-4": {
+			"sheillendra\\jsrender\\": ""
+		}
+	}
+}
