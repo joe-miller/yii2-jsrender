@@ -10,6 +10,6 @@ class JsRenderAsset extends AssetBundle
 	public $css = [];
 	public $js = ['jsrender.min.js'];
 	public $depends = [
-            
+            'yii\web\YiiAsset'
         ];
 }
