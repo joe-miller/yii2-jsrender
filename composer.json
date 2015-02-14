@@ -16,7 +16,7 @@
             "url": "https://github.com/BorisMoore/jsrender.git"
         }],
 	"require": {
-            "BorisMoore/jsrender" : "*beta"
+            "BorisMoore/jsrender" : "*@beta"
 	},
 	"autoload": {
 		"psr-4": {
