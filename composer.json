@@ -10,13 +10,8 @@
 			"email": "borismoore@gmail.com"
 		}
 	],
-	"repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/BorisMoore/jsrender"
-        }],
 	"require": {
-            "BorisMoore/jsrender" : "*@beta"
+            "bower-asset/jsrender" : "*@beta"
 	},
 	"autoload": {
 		"psr-4": {
