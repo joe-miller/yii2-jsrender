@@ -11,7 +11,7 @@
 		}
 	],
 	"require": {
-            "bower-asset/jsrender" : "*"
+            "bower-asset/jsrender" : "*@dev"
 	},
 	"autoload": {
 		"psr-4": {
