@@ -11,7 +11,7 @@
 		}
 	],
 	"require": {
-            "bower-asset/jsrender": ">=1.0.0*@dev"
+            "bower-asset/jsrender": "1.0.0-beta1"
 	},
 	"autoload": {
 		"psr-4": {
