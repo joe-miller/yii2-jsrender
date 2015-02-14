@@ -13,7 +13,7 @@
 	"repositories": [
         {
             "type": "git",
-            "url": "https://github.com/BorisMoore/jsrender.git"
+            "url": "https://github.com/BorisMoore/jsrender"
         }],
 	"require": {
             "BorisMoore/jsrender" : "*@beta"
