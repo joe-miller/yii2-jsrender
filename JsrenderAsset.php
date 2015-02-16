@@ -1,6 +1,6 @@
 <?php
 
-namespace sheillendra\jsrender;
+namespace joe-miller\jsrender;
 
 use yii\web\AssetBundle;
 
