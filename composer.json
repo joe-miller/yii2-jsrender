@@ -10,9 +10,6 @@
 			"email": "borismoore@gmail.com"
 		}
 	],
-	"require": {
-            "bower-asset/jsrender": "*"
-	},
 	"autoload": {
 		"psr-4": {
 			"joe-miller\\jsrender\\": ""
